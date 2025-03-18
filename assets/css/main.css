@@ -4026,3 +4026,7 @@ input, select, textarea {
 }
 
 
+.logo img {
+  filter: invert(1) brightness(100%) contrast(100%);
+}
+
