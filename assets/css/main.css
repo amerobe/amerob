@@ -3999,30 +3999,6 @@ input, select, textarea {
 
 #nav {
     background-color: #c9c9c9;
-    padding: 10px 0;
-}
-
-#nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: space-around;
-}
-
-#nav li {
-    display: inline-block;
-}
-
-#nav a {
-    text-decoration: none;
-    color: white;
-    padding: 10px 20px;
-    display: block;
-}
-
-#nav a:hover {
-    background-color: #555;
 }
 
 
